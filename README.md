@@ -1,6 +1,12 @@
 # react-course
 repo w/ react course content
 
+# React commands
+npx create-react-app meu-app
+
+iniciar aplicação
+npm start
+
 # GIT commands
 git checkout develop - move para a develop
 git checkout -b feature/update-your-new-branch-name - cria uma branch para trabalhar
