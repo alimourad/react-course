@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <Header name="React app" list={["About", "Buy", "Contact", "Pedrinho"]}/>
-      <Counter/>
+      <Counter count={2}/>
     </div>
   );
 }
